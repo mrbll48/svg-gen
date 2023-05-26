@@ -46,6 +46,6 @@ inquirer.prompt(questions).then((answers) => {
   const completeSvg = svg.render();
 
   fs.writeFile("logo.svg", completeSvg, (err) =>
-    err ? console.log(err) : console.log("successful")
+    err ? console.log(err) : console.log("successfully generated svg file")
   );
 });
