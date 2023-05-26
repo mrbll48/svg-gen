@@ -27,6 +27,10 @@ This is a logo generator. It will create a .svg file for a simple logo based on 
 2: answer all prompts that come up
 3: select the license your application uses
 
+The video below will show functionality of the application.
+
+https://drive.google.com/file/d/1Gg47P-_BosdVcyFyUfLsO8jLnltSIKuN/view
+
 ## License
 
 MIT License
